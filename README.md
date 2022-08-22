@@ -61,7 +61,7 @@ Start with your `manifest.json` like this:
   "start_url": "/",
   "icons": [],
   "theme_color": "#000000",
-  "background_color": "#FFFFFF",
+  "background_color": "#420690",
   "display": "fullscreen",
   "orientation": "portrait"
 }
